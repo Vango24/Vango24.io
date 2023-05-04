@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <!-- linking to external stylesheet personal.css -->
+  <link rel="stylesheet" href="styles3.css">
+</head>
+<body>
+  <!-- largest heading h1 -->
+  <h1>Van Ngo</h1>
+  <!-- paragraph -->
+  <!-- replace random text with your text -->
+  <p>I was born here in the <span class="univ">Viet Nam</span>. And i came to the United State in 2010. I came here when i was 10, after i came to the <span class="univ">US</span> i finished my 5th grade here. <u>And i don't know anything due to lack of English</u>. I attended 6-12 grade here. </p>
+  <p>Soon after I came to the US I went to a summer english tutor at a church for new immigrant like me. Did learn some history along with other thing over here, i do some reading during my break time and listening to music. After the first years in high school i chose to enter the Computer Science Academy at school and from there i have interested into Computer Science. Thought out my college timeline i learn that Computere Science is not somthing simple and easy there are many different type of computer science topic and stuff. And i was facing alot of problem and issues thought this timeline and i know taht if you want to be in this industry you have to put more efford then other to get what you want.</p>
+
+
+  
+  
+  <div class="box-container">
+    <br><br>
+    <!-- table -->
+    <table border="2" cellspacing="3">
+     <caption>My Courses - Fall 2022</caption>
+     <!-- row -->
+      <tr>
+       <!-- table cell -->
+       <td><strong>CS 413</strong></td>
+       <td>Analysis of Algorithms</td>
+     </tr>
+     <tr>
+        <td><strong>CS 411</strong></td>
+        <td>Automata and Computation</td>
+     </tr>
+     <tr>
+       <td><strong>CS 441</strong></td>
+       <td>Computer Networking</td>
+     </tr>
+     <tr>
+       <td><strong>Math 225</strong></td>
+       <td>Num Alg and LA for CS</td>
+     </tr>
+     <tr>
+      <td><strong>CS 461</strong></td>
+      <td>Artificial Intelligient</td>
+    </tr>
+  </table>
+
+  <br><br>
+    <!-- table -->
+    <table border="2" cellspacing="3">
+     <caption>My Courses - Spring 2023</caption>
+     <!-- row -->
+      <tr>
+       <!-- table cell -->
+       <td><strong>CS 471</strong></td>
+       <td>Security & Info Assurance</td>
+     </tr>
+     <tr>
+        <td><strong>CSC 411</strong></td>
+        <td>Automata and Computation</td>
+     </tr>
+     <tr>
+       <td><strong>CS 421</strong></td>
+       <td>Operating systems</td>
+     </tr>
+     <tr>
+       <td><strong>CS 497</strong></td>
+       <td>Topics in Computer Science</td>
+     </tr>
+     <tr>
+       <td><strong>CS 351 </strong></td>
+       <td>Website Development</td>
+     </tr>
+  </table>
+
+  </div>
+</body>
+</html>
